@@ -2090,6 +2090,14 @@
         <td></td>
         <td><a href="https://bibigpt.co/" target="_blank" rel="noopener noreferrer">链接</a></td>
     </tr>
+    <tr>
+        <td>16</td>
+        <td><img src="https://www.getalphadrama.com/favicon.png" alt="favicon" width="20" height="20"></td>
+        <td><a href="https://www.getalphadrama.com/" target="_blank" rel="noopener noreferrer">光梦 AlphaDrama</a></td>
+        <td>AI短剧与漫剧全流程制作SaaS平台（剧本改写/角色资产/分镜拆解/生图生视频/混剪成片，国内镜像 ad.yosweet.cn）</td>
+        <td></td>
+        <td><a href="https://www.getalphadrama.com/" target="_blank" rel="noopener noreferrer">链接</a></td>
+    </tr>
 </table>
 
 ## 写作、办公与知识管理
